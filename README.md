@@ -15,8 +15,8 @@ Built with PydanticAI + Dash, model `gpt-6-luna`. MGT 409 final project, Kanushr
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/KANUSHRI1947/teacher-copilot.git
-cd teacher-copilot
+git clone https://github.com/KANUSHRI1947/teacher-copilot2.git
+cd teacher-copilot2
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
